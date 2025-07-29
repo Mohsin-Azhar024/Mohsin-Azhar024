@@ -1,7 +1,7 @@
 [![MasterHead](https://drive.google.com/uc?id=11x187ceH3Sjyui7LLTNrzZU8J7sqG6pu)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mohsin Azhar</h1>
 <h3 align="center">Information Technology Graduate | Quantum Cryptography Researcher | Expertise in AI, Cybersecurity, Cloud Computing & Full-Stack Development | Creator of NexHire – AI-Powered Recruitment Platform</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*ei_Ce5ZqUHkhF9N1oku3Hg.gif">
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D4D12AQFOan67rg3q8Q/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1693761336583?e=2147483647&v=beta&t=xC6-mOhY1QCEddyWgWdcnZ_BiHz5IaSOSVU6Op3PIQ0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsin-azhar024&label=Profile%20views&color=0e75b6&style=flat" alt="Mohsin-Azhar024" /> </p>
 
